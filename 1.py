@@ -1,5 +1,6 @@
 import torch
-
+#测试同步
+# ceshi2
 print(torch.__version__)
 print(torch.cuda.is_available())
 

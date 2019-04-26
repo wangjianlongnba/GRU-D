@@ -1,5 +1,5 @@
 import torch
-
+#测试同步
 print(torch.__version__)
 print(torch.cuda.is_available())
 
